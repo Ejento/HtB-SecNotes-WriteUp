@@ -145,6 +145,6 @@ After that, the box was done. I was back on the Windows machine and I was the ad
 
 This was the box, and actually was really fun. I learned a ton of new things and it was really challenging. I suggest this box to everyone.
 
-## Have fun and happy hacking!!
+**Have fun and happy hacking!!**
 
 by *Akumu*.
