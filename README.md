@@ -19,7 +19,7 @@ We can see that we have to deal with a **Windows 10** machine. That's something 
 
 In general, the next step is to open the web application in a browser and search main page's source code to find an information that has been leaked or some hint for our next move. In this case we have just a login port.
 
-![port80]((/prtsc/2-port80.png)
+![port80](/prtsc/2-port80.png)
 
 ## Let's get dirty
 
